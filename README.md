@@ -1,3 +1,2 @@
 # visual
-Hola Jano
-Hola Jordy
+Vamos a ver si funciona mi commit 
