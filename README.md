@@ -1,2 +1,2 @@
 # visual
-esta es la edicion de giovanni
+esta modificacion fue realizada localmente
